@@ -1,4 +1,4 @@
-poem 1
+poem 1b
 RST
 Raiwbows (red, blue, green, yellow, purple, orange, pink, brown)
 Stars
