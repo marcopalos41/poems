@@ -1,7 +1,7 @@
 poem1
 RST1
-Raiwbows (red, blue, green, yellow, purple)
-Stars 
-Treasures
+Raiwbows (red, blue, green, yellow, purple, orange)
+Stars 2
+Treasures 32
 
 RST1
