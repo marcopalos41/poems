@@ -3,5 +3,5 @@ RST4
 RTS
 
 Raibows
-Stars
+Stars *****
 Treasures
