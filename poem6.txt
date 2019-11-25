@@ -3,5 +3,5 @@ poem 6
 RST
 
 Raibows
-Stars *****
+Stars
 Treasures
