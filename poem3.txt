@@ -1,6 +1,6 @@
 Poem3
 
-RST *****
+RST 
 Raibows
-Stars
+Stars *****
 Treasures

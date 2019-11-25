@@ -1,6 +1,6 @@
 poem 1
 
 RST
-Raiwbows (red, blue, green, yellow, purple, orange, pink, brown)
+Raiwbows (red, blue, green, yellow, purple, orange, pink)
 Stars *****
 Treasures
