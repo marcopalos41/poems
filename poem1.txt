@@ -4,5 +4,5 @@ abc
 
 RST
 Raiwbows (red, blue, green, yellow, purple, orange, pink, brown)
-Stars *
+Stars
 Treasures
