@@ -1,6 +1,6 @@
 poem 1
 
-RST 123
+RST
 Raiwbows (red, blue, green, yellow, purple, orange, pink, brown)
 Stars
 Treasures
