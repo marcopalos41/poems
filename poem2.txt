@@ -2,7 +2,5 @@ poem 2
 
 RST
 Raiwbows
-Stars
+Stars *
 Treasures
-
-RST
