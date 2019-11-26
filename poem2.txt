@@ -2,5 +2,5 @@ poem 2
 
 RST
 Raiwbows (red, green, blue)
-Stars 
+Stars *****
 Treasures
