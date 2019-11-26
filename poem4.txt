@@ -2,5 +2,5 @@ Poem4
 RTS
 
 Raibows (red, green, blue)
-Stars *****
+Stars 
 Treasures
