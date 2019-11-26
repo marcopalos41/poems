@@ -1,5 +1,4 @@
 poem 6
-
 RST
 
 Raibows (red, green, blue)
