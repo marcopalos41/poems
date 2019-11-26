@@ -1,6 +1,6 @@
 poem3
 
-RST 
+RST is awesome
 Raibows (red, blue, green, yellow, purple, orange, pink)
 Stars *****
 Treasures
