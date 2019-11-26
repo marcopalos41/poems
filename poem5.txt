@@ -2,6 +2,6 @@ Poem 5
 
 RST
 
-Raibows
+Raibows (red, green, blue)
 Stars *****
 Treasures

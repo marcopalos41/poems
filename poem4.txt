@@ -2,6 +2,6 @@ RST4
 
 RTS
 
-Raibows
+Raibows (red, green, blue)
 Stars *****
 Treasures
