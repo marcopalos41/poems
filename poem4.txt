@@ -1,6 +1,6 @@
 Poem4
 
 RTS
-Raibows (red, green, blue)
+Raibows (red, blue, green, yellow, purple, orange, pink)
 Stars *****
 Treasures
