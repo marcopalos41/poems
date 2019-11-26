@@ -1,6 +1,6 @@
 poem3
 
 RST 
-Raibows (red, green, blue)
+Raibows (red, blue, green, yellow, purple, orange, pink)
 Stars *****
 Treasures
