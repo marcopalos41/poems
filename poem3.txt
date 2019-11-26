@@ -1,6 +1,6 @@
 Poem3
 
 RST 
-Raibows
+Raibows (red, green, blue)
 Stars *****
 Treasures
