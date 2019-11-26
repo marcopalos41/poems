@@ -1,6 +1,6 @@
 poem 6
-RST
 
+RST
 Raibows (red, green, blue)
 Stars *****
 Treasures
