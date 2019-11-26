@@ -1,6 +1,6 @@
 poem 2
 
 RST
-Raiwbows
+Raiwbows (red, green, blue)
 Stars *****
 Treasures
