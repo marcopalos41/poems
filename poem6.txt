@@ -1,6 +1,10 @@
 poem6
 
 RST is really awesome
+<<<<<<< HEAD
 Rainbows (red, blue, green, yellow, purple, orange, pink)
+=======
+Raibows (red, blue, green, yellow, purple, orange, pink)
+>>>>>>> 45e0fd7... changed raibows from poem5 and poem6
 Stars *****
 Treasures #####
