@@ -3,4 +3,4 @@ poem4
 RTS is really awesome
 Rainbows (red, blue, green, yellow, purple, orange, pink)
 Stars *****
-Treasures #####
+Treasures
