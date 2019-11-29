@@ -1,4 +1,4 @@
-POEM1b
+POEM1
 
 RST is really awesome
 Rainbows (red, blue, green, yellow, purple, orange, pink)
