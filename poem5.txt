@@ -1,6 +1,6 @@
 POEM5
 
-RST is really awesome
+RST
 Rainbows (red, blue, green, yellow, purple, orange, pink)
 Stars *****
 Treasures #####
